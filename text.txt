@@ -1,0 +1,2 @@
+O Nascimento do Python
+A história do Python começa em dezembro de 1989, quando Guido van Rossum, um programador holandês, iniciou o desenvolvimento da linguagem como um projeto de hobby. Ele estava procurando criar uma linguagem que fosse fácil de entender e que incentivasse uma sintaxe clara e legível.
